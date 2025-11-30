@@ -1,0 +1,7 @@
+- [x] Modify ThemeProvider to always set theme to 'light' and remove toggle functionality
+- [x] Remove the sun/moon toggle button from Navbar
+- [x] Remove dark classes from DashboardLayout.jsx
+- [x] Remove dark classes from SideMenu.jsx
+- [x] Remove dark classes from Income.jsx
+- [x] Remove dark classes from other components (Goals.jsx, Expense.jsx, AddGoalModal.jsx, etc.)
+- [x] Test the changes
